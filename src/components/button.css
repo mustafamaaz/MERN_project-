@@ -1,0 +1,14 @@
+.my-button {
+    background-color: #0074d9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: px;
+    cursor: pointer;
+    transition: background-color 2s ease; 
+  }
+  
+  .my-button.clicked {
+    background-color: #ff4136;
+    box-shadow: 2px 2px 5px 0 black;
+  }
